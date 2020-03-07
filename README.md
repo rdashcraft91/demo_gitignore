@@ -1,1 +1,1 @@
-# demo_gitignore
+Demo of Gitignore
